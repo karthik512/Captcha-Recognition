@@ -2,6 +2,7 @@ from PIL import Image
 import src.CNN as network
 import numpy as np
 import os
+import tensorflow as tf
 from src.DataLoader import *
 from src.Constants import *
 
