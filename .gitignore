@@ -1,0 +1,6 @@
+fonts/*
+data/*
+.idea/*
+src/RecognizeCaptcha.py
+src/Layers.py
+src/__pycache__/*
